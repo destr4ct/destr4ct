@@ -3,6 +3,3 @@
 - 🌱 I’m currently learning linux kernel exploitation techniques and internals.
 - 👯 I’m looking to collaborate on fuzzing (especially with syzkaller).
 - 📫 How to reach me: mainly accessible via destr4ct[dot]t.me.
-
-### For some reasons y'all got to this page
-![counter](https://moe-counter.glitch.me/get/@destr4ct=asoul) times
